@@ -1,4 +1,4 @@
-# Telemedicine data story
+# Telemedicine Use
 
 During and after COVID telemedicine has seen an explosion that does not seem to be slowing down. There are many challenges in Telemedicine such as providing quality of care and using new technologies such as heart rate monitoring, O2 sensors etc to supplement care.
 
